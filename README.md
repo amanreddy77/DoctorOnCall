@@ -58,7 +58,7 @@ To begin using the DoctorOnCall System, follow these simple steps:
 # Setup Documentation
 
 ## Clone The Project
-git clone https://github.com/Ujjalzaman/Doctor-Appointment.git
+git clone https://github.com/amanreddy77/Doctor-Appointment.git
 
 ### Install Frontend
 cd Doctor-Appointment
