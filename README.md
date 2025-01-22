@@ -149,4 +149,4 @@ Thank you for considering this project. If you have any questions, please do not
 
 
 ## Contact Me
-Portfolio: [https://portfolio-aman-gamma.vercel.app](https://portfolio-aman-gamma.vercel.app)
+reddyaman77.ar@gmail.com
